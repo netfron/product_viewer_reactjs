@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1, 
+        "name": "토트넘 손흥민 유니폼 어웨이", 
+        "origin": "UK",
+        "category_id": 1,
+        "team_id": 1,
+        "brand" : "나이키",
+        "price" : 55000,
+        "main_img":"http://img.allthatboots.com/edimg/584a0a681fe08.png",
+        "sub_img1":"",
+        "sub_img2":"",
+        "sub_img3":"",
+        "sub_img4":""
+    }
+   
+]
+
