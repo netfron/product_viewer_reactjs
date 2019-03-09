@@ -12,7 +12,34 @@
         "sub_img2":"",
         "sub_img3":"",
         "sub_img4":""
+    },
+    {
+        "id": 2, 
+        "name": "맨체스터 유나이티드 유니폼 어웨이", 
+        "origin": "UK",
+        "category_id": 1,
+        "team_id": 1,
+        "brand" : "아디다스",
+        "price" : 55000,
+        "main_img":"https://imgnews.pstatic.net/image/139/2016/03/14/SK007_20160314_4905ext01_99_20160314115804.JPG?type=w647",
+        "sub_img1":"",
+        "sub_img2":"",
+        "sub_img3":"",
+        "sub_img4":""
+    },
+    {
+        "id": 3, 
+        "name": "바르셀로나 유니폼 어웨이", 
+        "origin": "Spain",
+        "category_id": 1,
+        "team_id": 1,
+        "brand" : "나이키",
+        "price" : 55000,
+        "main_img":"https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/zhe8jdtukl283uekqpa8/2017-18-fc-barcelona-stadium-home-2KTr7xjd.jpg",
+        "sub_img1":"",
+        "sub_img2":"",
+        "sub_img3":"",
+        "sub_img4":""
     }
-   
 ]
 

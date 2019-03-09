@@ -62,3 +62,35 @@ body {
     width: 100%;
   }
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  padding-left: 15px;
+}
+
+.tags {
+  border: 1px solid #666;
+}
+
+.main-img{
+  width: 100%;
+  height: auto;
+}
+
+.product-img {
+  float: left;
+  width: 40%;
+  padding: 15px;
+}
+.product-detail {
+  float: right;
+  width: 55%;
+  padding: 15px;
+}
